@@ -1,0 +1,7 @@
+pandas
+openpyxl
+sqlalchemy
+pymysql
+psycopg2-binary
+plotly
+python-dotenv
